@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="child_background">#ffffff</color>
+    <color name="customize_background">#e5e5e5</color>
+    <color name="businessColor">#00ADFF</color>
+    <color name="politicsColor">#00B849</color>
+    <color name="topNewsColor">#2273f9</color>
+    <color name="entertainmentColor">#DC007E</color>
+    <color name="scienceColor">#00C3AC</color>
+    <color name="sportsColor">#EA8200</color>
+    <color name="outOfBoxColor">#A536C8</color>
+    <color name="breakingNewsColor">#EF4008</color>
+    <color name="technologyColor">#8DCB00</color>
+    <color name="lifeStyleColor">#F6A800</color>
+    <color name="unassignedColor">#5E78A9</color>
+    <color name="teaseColor">#5E78A9</color>
+    <color name="lightGrayColor">#E5E5E5</color>
+    <color name="one_time_category">#b5b5b5</color>
+    <color name="black_background">#000000</color>
+    <color name="unselected_text_color">#929292</color>
+    <color name = "initial_color">#3B4C74</color>
+    <color name= "player_controls_color">#000000</color>
+    
+
+</resources>

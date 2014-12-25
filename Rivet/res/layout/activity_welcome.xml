@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rivet.app.WelcomeActivity"
+    android:background="@android:color/white">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:id="@+id/tv_welcome_title"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/welcome"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="#454545"
+        android:background="#DFDFDF"/>
+
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/iv_header_image"
+        android:layout_below="@+id/tv_welcome_title"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/welcome_header"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:text="@string/next_all_caps"
+        android:id="@+id/bt_next"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#454545"
+        android:textSize="20sp"
+        android:background="#DFDFDF"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/radio_for_you"
+        android:id="@+id/tv_radio_for_you"
+        android:layout_below="@+id/iv_header_image"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_info"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/tv_radio_for_you"
+        android:layout_alignLeft="@+id/tv_radio_for_you"
+        android:layout_alignStart="@+id/tv_radio_for_you"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#454545"/>
+
+</RelativeLayout>

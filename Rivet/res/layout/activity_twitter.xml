@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/headertwitter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/customize_background" >
+
+        <Button
+            android:id="@+id/cancelBT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@color/customize_background"
+            android:text="@string/cancel"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/topNewsColor" />
+
+        <TextView
+            android:id="@+id/twitterTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:text="@string/twitter"
+            android:visibility="invisible"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnUpdateStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:background="@color/customize_background"
+            android:text="@string/post"
+            android:textColor="@color/topNewsColor" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/lblUpdate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip"
+        android:textColor="@android:color/black" />
+
+</LinearLayout>

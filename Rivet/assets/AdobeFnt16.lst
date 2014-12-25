@@ -1,0 +1,99 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MetaPro-Bold
+FamilyName:Meta Pro
+StyleName:Bold
+MenuName:MetaPro-Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:MetaPro-Bold
+WritingScript:Roman
+OutlineFileName:\MetaPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:151720
+FileModTime:1289925434
+NameArray:0,Mac,4,MetaPro-Bold
+NameArray:0,Win,1,MetaPro-Bold
+NameArray:0,Win,16,Meta Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MetaPro-Book
+FamilyName:Meta Pro
+StyleName:Book
+MenuName:MetaPro-Book
+StyleBits:0
+WeightClass:450
+WidthClass:5
+AngleClass:0
+FullName:MetaPro-Book
+WritingScript:Roman
+OutlineFileName:\MetaPro-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:148084
+FileModTime:1289925434
+NameArray:0,Mac,4,MetaPro-Book
+NameArray:0,Win,1,MetaPro-Book
+NameArray:0,Win,16,Meta Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MetaPro-Medi
+FamilyName:Meta Pro
+StyleName:Medium
+MenuName:MetaPro-Medi
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:MetaPro-Medi
+WritingScript:Roman
+OutlineFileName:\MetaPro-Medi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:149332
+FileModTime:1289925448
+NameArray:0,Mac,4,MetaPro-Medi
+NameArray:0,Win,1,MetaPro-Medi
+NameArray:0,Win,16,Meta Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MetaPro-Norm
+FamilyName:Meta Pro
+StyleName:Normal
+MenuName:MetaPro-Norm
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MetaPro-Norm
+WritingScript:Roman
+OutlineFileName:\MetaPro-Norm.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:148740
+FileModTime:1289925448
+NameArray:0,Mac,4,MetaPro-Norm
+NameArray:0,Win,1,MetaPro-Norm
+NameArray:0,Win,16,Meta Pro
+%EndFont
+

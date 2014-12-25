@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rivet Radio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="next_all_caps">NEXT</string>
+    <string name="welcome">Welcome to Rivet Radio</string>
+    <string name="title_activity_login_options">LoginOptionsActivity</string>
+    <string name="login">Log In</string>
+    <string name="twitterActivity">Twitter Activity</string>
+    <string name="login_single">Login</string>
+    <string name="login_caps">LOGIN</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="news_string_rivet">Rivet News Radio</string>
+    <string name="exist_email_id">This Email id or Username is already exists in Rivet, To merge your account please enter existing account password.</string>
+    <string name="sign_up_caps">SIGNUP</string>
+    <string name="app_id">319130028232775</string>
+    <!-- <string name="app_id">845943185458893</string> -->
+    <string name="login_with_fb">Log In with Facebook</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="stay_ahead">Stay ahead of the news!</string>
+    <string name="login_reason">Log in or sign up for a Rivet Radio account to stay
+    informed and keep track of your personal preferences.</string>
+    <string name="forgot_pass_question_caps">FORGOT PASSWORD?</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="submit_caps">SUBMIT</string>
+    <string name="terms_caps">TERMS</string>
+    <string name="radio_for_you">Radio built for you!</string>
+    <string name="app_info">Rivet Radio connects you to your world. Build your own portable
+    , customized news radio station and listen to what you want to hear when you want and how you
+    want to.</string>
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="skip_caps">SKIP</string>
+    <string name="customization">Customization</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="title_activity_one_time_select_category">OneTimeSelectCategoryActivity</string>
+    <string name="build_radio">Build your custom radio</string>
+    <string name="select_categories_of_interest">Select the categories you\'re interested in.</string>
+    <string name="top_news">Top News</string>
+    <string name="technology">Technology</string>
+    <string name="govt_and_politics">Government &amp; \nPolitics</string>
+    <string name="science">Science</string>
+    <string name="business">Business</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="sports">Sports</string>
+    <string name="crime_and_courts">Crime &amp; Courts</string>
+    <string name="arts_and_ent">Arts &amp;\nEntertainment</string>
+    <string name="music">Music</string>
+    <string name="login_content">login_content</string>
+    <string name="categories">categories</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="content">content</string>
+    <string name="about">About</string>
+    <string name="faq">FAQ</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="feedback">Feedback</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_faq">FAQActivity</string>
+    <string name="title_activity_general">GeneralActivity</string>
+    <string name="general">General</string>
+    <string name="general_string_one">Where does H2 Radio get its news?</string>
+    <string name="general_string_one_answer">H2 Radio features stories from many sources, including original content written and produced by the H2 Radio team, stories written by our partners and adapted for audio by H2 Radio, and stories written and produced by our partners. H2 Radio supplements its news with podcasts from the iTunes Affiliate Program and other sources.</string>
+    <string name="general_string_two">Why are stories colored differently?</string>
+    <string name="genral_string_two_answer">The stories are color-coded to make them easy to identify by category, and to let you know what’s coming up next. Here’s a quick reference to the visual way in which categories are identified on H2 Radio:
+Breaking News is red
+Top News is dark blue
+Government and Politics is green
+Business is blue
+Sports is orange
+Arts and Entertainment is magenta
+Technology is light green
+Science is aqua
+Lifestyle is yellow
+Out of the Box is purple </string>
+    <string name="general_string_three">What stories are listed in Next Up?</string>
+    <string name="genral_string_three_answer">Next Up lists the story that will be played next. At any time, you see the preview on the next story. Think of Next Up as your own personalized constantly updated playlist, customized to your preferences and interests. When you select categories and add your interests, and as you like/dislike the content that plays, H2 Radio serves up an experience tailored to your world. 
+
+You can add stories to Next Up by tapping items under New and Popular or Related Stories. 
+
+You can also add stories to Next Up by using the Search feature to find and select a specific topic. Contrary to the regular web experience, stories you add are queued up for play and do not interrupt the current story. Reorder Next Up stories by dragging them higher or lower in the list, using the handle icons at the right.</string>
+    <string name="general_string_four">What are the stories listed in New and Popular?</string>
+    <string name="genral_string_four_answer">These are the newest stories we’ve published; the stories listeners like, search for and add it to their Next Up list. No worries about repetition -- our New and Popular list won’t include any stories you’ve already listened to.</string>
+    <string name="general_string_five">What is Out of the Box?</string>
+    <string name="general_string_five_answer">Out of the Box includes news stories and podcasts that we think you’ll find interesting, but whose content doesn’t fall under more traditional categories like Politics or World/National News. Out of the Box content includes Commentary, Human Interest, Humor, Talk, Kids and Family, Weird News, and How-To stories.</string>
+    <string name="general_string_six">What does Search do?</string>
+    <string name="general_string_six_answer">Search lets you find specific content in H2 Radio. Maybe it’s a story, a topic, or a reporter whose work you enjoy. Your searches will push those preferences up on your Next Up list so you can hear them immediately.</string>
+    <string name="general_string_seven">What does ‘H2’ mean?</string>
+    <string name="general_string_seven_answer">H2 Radio is the product of HearHere Radio, LLC. The H’s in H2 refer to the H’s in the company name. More specifically, it’s a way of hearing news and stories about your specific location when you want to hear them. It’s all about you – where you are, and the news you want to hear. You have total control.</string>
+    <string name="social_media">Social Media</string>
+    <string name="contact_hearhere_radio">Contact HearHere Radio</string>
+    <string name="title_activity_qand_a">QAndAActivity</string>
+    <string name="q_and_a">Q &amp; A</string>
+    <string name="about_rivet_screen">      \n <b>Rivet News Radio</b>\n  \n
+       Version 1.59 (Beta) \n \n    <b>Copyright and Trademarks</b>\n  \n
+       © 2014 HearHere Radio, Inc.\nAll rights reserved. \n \n Rivet News radio is a product of HearHere Radio,Inc. HearHere Radio is a registered trademark of HearHere Radio, Inc.
+ \n \n <b>Privacy Policy</b>\n       
+\n
+DATE LAST MODIFIED: October 29, 2013\n
+
+Importance of Your Privacy: At HearHere Radio ("HHR"), your privacy is of great importance to us. We understand that you entrust us with certain private information to help us provide various products and services. In exchange for your trust, you expect and deserve our commitment to treat your information with respect and in accordance with this Privacy Policy. Rest assured that we will protect your privacy. Under no circumstances will HHR sell or share any personal information about you to or with any person or organization except (i) as authorized by you, (ii) as described in the relevant portion of HHR’s Website (the “Website”), mobile application (the "Application") and/or Terms of Use, (iii) in connection with providing various products and/or services to you (the “Services”), (iv) to third parties on an aggregated, non-identifiable basis, (v) as may be required by law or court order, or (vi) as otherwise set forth herein (collectively, the "Permitted Uses"). The Privacy Policy below describes the standards we adhere to in handling information about you and any personal information you submit through the Website and/or the Application.
+
+PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE SUBMITTING ANY INFORMATION TO HHR OR THROUGH ANY HHR SOFTWARE OR MOBILE APPLICATION. BY SUBMITTING ANY INFORMATION YOU ARE ACKNOWLEDGING THAT YOU HAVE READ AND UNDERSTAND THIS POLICY AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY, SIMPLY EXIT THIS PAGE AND/OR THE APPLICATION WITHOUT ACCESSING OR USING ANY OF OUR SERVICES.\n
+ \n
+A Special Note About Children: Children are not eligible to use our Services and we ask that minors (under the age of 13) do not submit any personal information to us or use the Services. HHR does not collect or maintain information from those actually known to be under the age of 13, and no part of HHR’s website, the Application or Services is structured to attract anyone under the age of 13. Other age restrictions may be set forth in HHR\'s Terms of Use from time to time.\n
+\n <b>Important Categories of Information for you to Know:</b>\n
+\n
+1. Who we are\n
+2. Information we may collect at the Website or through the Application\n
+3. How your information is used\n
+4. Altering the information you submit through the Website and/or Application\n
+\n
+1. Who We Are:HHR operates a website located at www.H2Radio.com and the Application, currently commonly referred to as H2 Radio, through which (i) news, information, stories and other types of content are made available to listeners and/or users of the Application, and (ii) advertising, some of which may be targeted, is served.\n 
+\n
+2. Information We Collect:There are several areas on the Website and/or within the Application where you may be asked to enter both personal and non-personal information. In addition, when you use the Application HHR automatically receives and records information on our server logs from your browser or mobile platform, including your IP address and location. We treat this data as non-personal information for purposes of providing the Services, except where we are required to treat it as personal information under applicable law. We DO NOT sell or share any personal information about you to or with any person or organization except for the Permitted Uses. In addition, and not in limitation of the foregoing, information you enter at the Website and/or which passes through the Application may be shared with third party service providers and/or advertisers with which HHR has entered into a business relationship in order to provide the Services. In addition, HHR may sell or disclose information gathered on the Website or within the Application to third parties on an aggregated basis.\n 
+\n
+(a) Information we receive from you: To use certain of HHR’s Services, you\'ll need to provide certain personal information which may include, without limitation, your name, address, birthday, phone number, credit card information, Facebook, Twitter and/or other social network user names, e-mail address, information regarding your cell phone or mobile device and other information.\n
+\n
+(b) Technical information we collect: In order for HHR to ensure that we are providing the best possible consumer experience on the Website and within the Application, we collect and track certain user information. When you visit the Website, our Web server sends a cookie to your computer. This cookie stores a limited amount of information about your site visit. The cookie tracks aggregate information on how our site is being used, including session counts, navigation patterns, pages visited, etc. These cookies, however, do not store any personally identifiable information such as your name, email address or phone number as you browse the site. When you submit a question, we store your cookie identification in our system. This cookie allows our site to recognize you when you return. HHR may also utilize Web Logs to track aggregate information about how our site and/or the Application is being used. Web Logs track anonymous user information, including the number of visitors to the Website, operating systems, Internet Provider addresses (if publicly available), and browser type. Unlike cookies, Web Logs are maintained only on HHR servers and do not store or place anything on the user\'s computer.\n
+\n
+If you come to the HHR Website from an online banner ad, an anonymous identification number may be passed to the Website. This information cannot be used to gather any personally identifiable information about you. It will only allow us to track the overall effectiveness of our online advertising, marketing and banner advertisement campaigns.\n
+\n
+(c) Other Information we get from your use of the Services: We may collect information about the Services that you use and how you use them. This information includes:\n
+\n <b>Device information:</b>\n
+We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number).\n
+\n <b>Location information:</b>\n
+When you use the Service, we may collect and process information about your actual location, such as GPS signals sent by a mobile device. We may also use various technologies to determine location, some of which may be made available through third party licensors.\n
+\n
+(d) Information from surveys: You may have the option of completing an online survey at the Website or within the Application from time to time. Participation in surveys is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us in connection with any such survey.\n
+\n
+(e) Information from the "Contact Us" section of the Website or Application: You may contact HHR through the "Contact Us" feature. Participation in this area is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us.\n
+\n
+(f) Information collected other sections of the Website or Application: HHR may, from time to time, make various resources available to you at the Website or within the Application. At times we may collect personal information in connection with providing such services.\n
+\n
+3. How your information is used: We use the information you provide to provide the applicable Services to you, either directly or through third party service providers. HHR may also share certain aggregated data with other third parties for general marketing and demographic purposes; however, this data does not include any of your personal identifying information. Some of our Services may be offered in conjunction with partner companies, affiliates or other companies or websites with which we work. In order for us to provide these Services to you, it may be necessary for us to share your personal information with one of such entities. These parties are not allowed to use personally identifiable information except for the purpose of providing these Services. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular Service.\n
+\n
+In addition, HHR may disclose account or other personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with HHR’s rights or property, other Website or Application users or anyone else that could be harmed by such activities.\n
+\n
+4. Altering Information You Submit:\n
+\n
+(a) Deleting your information: Federal and state regulations may require that we store questions or submissions for various periods of time. In order to comply with these regulations, we may be unable to delete information from our databases.\n
+\n
+(b) Altering Information: HHR may alter, modify or delete any information you submit to the Website or through the Application if it believes, in its sole discretion, it is necessary or desirable to do so.\n
+\n
+(c) Request to stop receiving emails from us: Periodically, HHR may send you emails to alert you to various opportunities or offers available at the Website or within the Application. If you do not wish to receive any of these offers, please send an e-mail to Feedback@H2Radio.com to remove yourself from our mailing list.\n
+\n <b>Security</b> \n
+\n
+HHR uses extensive and sophisticated secure technology to protect your data and transmissions between you and HHR. Although HHR has taken these reasonable and appropriate measures to ensure that your personal information is delivered and disclosed only in accordance with your instructions, HHR cannot and does not guarantee that the personal information you provide will not be intercepted by others and decrypted.\n
+\n <b>Changes to Privacy Policy</b>\n
+\n
+If we make a change to our Privacy Policy in the future that will affect how we treat your information, we will post such change at the Website and/or within the Application, and such change will be deemed to be effective 2 days from the date of such posting. In that case, your ability to opt out of the new policy will be determined by applicable laws.\n
+\n <b>Business Transfer</b>\n
+\n
+We may, in the future, sell or otherwise transfer some or all of our assets or equity to a third party. Your personally identifiable information and other information we obtain from you via the Website or the Application may be disclosed to any potential or actual third party purchasers of such assets or equity and may be among the assets transferred.\n
+\n <b>Acceptance</b>\n
+\n
+If you do not agree to the terms of this Privacy Policy, please do not provide us with any information and do not use the Website or the Application. By using the Website or the Application and/or voluntarily providing information which will pass through the Website and/or Application, you consent to our collection and use of the information as set forth in this Privacy Policy.\n
+\n <b>Links</b>\n
+\n
+The Website and/or Application may contain links to other websites or applications that are owned and operated by third parties that are not affiliated with us. When you use those links, you leave the Website or Application (as applicable) and we are unable to control how the owners of the websites or applications you link to handle any information they gather about you, including their privacy practices and use of cookies. This Privacy Policy applies only to the Website and Application and does not govern activities on linked websites or applications. We encourage you to review the privacy policy of any other website or application you visit, download or access to understand its owner’s practices on how it collects, uses and discloses your information.\n
+\n
+PLEASE PRINT AND RETAIN A COPY OF THIS AGREEMENT FOR YOUR RECORDS.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="your_email">Your Email</string>
+    <string name="create_password">Create Password</string>
+    <string name="back">Back</string>
+    <string name="divider">divider</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="title_activity_terms_use">Terms of Use</string>
+    <string name="no_more_stories_in_selected_categories">No more stories in selected categories</string>
+    <string name="no_internet_connectivity_please_check_internet_connection_and_launch_rivet_again_">No internet connectivity. Please check internet or WIFI settings.</string>
+    <string name="bosch_connection_lost">Internet Connection Lost</string>
+    <string name="bosch_internet_connection">The Rivet Radio application requires an Internet Connection</string>
+    <string name="log_out">Log Out</string>
+    <string name="my_email_id">My Email id</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="check_your_email_">Check your email!</string>
+    <string name="sent_email_reset">We’ve sent you an email with instructions on how to reset your password.</string>
+    <string name="ok">Ok</string>
+    <string name="customize">Customize</string>
+    <string name="buffering_">Buffering...</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="twitter">Twitter</string>
+    <string name="post">Post</string>
+    <string name="cancel">Cancel</string>
+    <string name="rivet_radio">Rivet Radio</string>
+    <string name="category">category</string>
+    <string name="internet_connectivity_is_low_">Internet Connectivity is low.</string>
+
+</resources>
